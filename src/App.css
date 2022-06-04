@@ -1,3 +1,14 @@
+body{
+  background-color: rgb(143, 201, 241);
+}
+
+button{
+  margin: 20px;
+  padding: 10px 30px;
+  font-size: 20px;
+  background-color: rgb(143, 201, 241);
+  border-color: #00c8ff;
+}
 .App {
   text-align: center;
 }
